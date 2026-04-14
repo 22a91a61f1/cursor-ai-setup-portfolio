@@ -58,3 +58,56 @@ This repository serves as a foundation for future AI-assisted development projec
 After completing the setup, I tested the environment by interacting with AI coding assistants inside Cursor. The extensions helped generate explanations about development workflows and demonstrated how AI can support code writing, debugging, and documentation tasks.
 
 This confirmed that the environment is functioning correctly and ready for AI-assisted software development use cases.
+
+
+
+
+---
+
+## Research Project: AI-Powered SEO Content Production
+
+### Objective
+
+The objective of this research project was to analyze how leading SEO practitioners use AI tools to scale content production for B2B SaaS environments. The goal was to understand repeatable workflows for keyword clustering, topical authority building, and structured publishing systems.
+
+### Why This Topic Was Selected
+
+AI-assisted SEO content production represents one of the most scalable acquisition strategies for modern SaaS companies. It combines automation, structured keyword research, and internal linking systems to improve organic visibility efficiently.
+
+This topic directly supports building future playbooks for automated growth workflows.
+
+### Research Methodology
+
+To ensure high-signal research quality, I selected experienced practitioners actively publishing insights on SEO automation, keyword clustering strategies, and AI-assisted content workflows.
+
+Sources included:
+
+- YouTube strategy breakdowns
+- LinkedIn expert commentary
+- SEO framework discussions
+- topical authority system explanations
+
+Each source was reviewed and organized into structured folders to support later playbook development.
+
+### Repository Structure
+
+The research materials are organized as follows:
+
+/research  
+ /linkedin-posts  
+ /youtube-transcripts  
+ sources.md  
+
+This structure enables easy navigation and reuse for future workflow implementation.
+
+### Key Insights Identified
+
+Across multiple expert sources, several consistent themes appeared:
+
+- topical authority improves ranking performance
+- keyword clustering is essential for scalable SEO
+- AI accelerates outline creation and drafting
+- internal linking strengthens content ecosystems
+- human review remains critical for credibility
+
+These insights form the foundation for building repeatable AI-powered SEO content production systems.
