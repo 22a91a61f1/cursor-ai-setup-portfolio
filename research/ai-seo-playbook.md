@@ -84,3 +84,40 @@ However, human review is required before publishing.
 ## Where Experts Disagree
 
 ### Disagreement 1: Publish Fast with AI vs
+
+
+---
+
+## What I Rejected and Why
+
+### Rejected Idea 1: Publishing AI-generated articles without human editing
+
+Some workflows recommend publishing AI-generated content quickly to increase content volume.
+
+However, this approach increases the risk of factual errors, weak authority signals, and lower trust from search engines.
+
+Instead, I recommend combining AI drafting with human review to ensure accuracy and credibility.
+
+(Source: Julian Goldie discusses AI automation workflows, but also notes strategy must guide automation)
+
+Reason for rejection:
+Content quality and authority signals are critical for B2B SaaS environments, where trust impacts conversions.
+
+---
+
+### Rejected Idea 2: Creating separate pages for very similar keywords
+
+Some keyword clustering tools generate multiple similar keyword suggestions such as:
+
+“SEO agency”
+“SEO company”
+“SEO services”
+
+Creating separate pages for each keyword can lead to keyword cannibalization.
+
+Instead, I recommend combining similar keywords into a single authoritative page.
+
+(Source: Matt Diggity topical map workflow discussion)
+
+Reason for rejection:
+Combining overlapping keywords improves clarity of search intent and strengthens topical authority.
