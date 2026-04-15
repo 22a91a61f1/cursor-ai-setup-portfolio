@@ -77,3 +77,10 @@ AI tools can assist with:
 However, human review is required before publishing.
 
 (Source: Julian Goldie, AI SEO automation workflow discussion)
+
+
+---
+
+## Where Experts Disagree
+
+### Disagreement 1: Publish Fast with AI vs
